@@ -8,3 +8,5 @@ Here's some boilerplate so you can focus on building Netlify Functions.
 4. Go to `https://your-netlify-site.netlify.app/.netlify/functions/helloWorld?name=FirstName` -- it should greet you with "Hello FirstName."
 	* [Example hello world function with parameter](https://11ty-netlify-function-hello.netlify.app/.netlify/functions/helloWorld?name=Katie)
 5. Experiment with actually writing functions -- have fun.
+
+As seen at [Katie Kodes](https://katiekodes.com/netlify-functions-starter-11ty/)
